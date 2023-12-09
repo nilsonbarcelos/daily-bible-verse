@@ -1,5 +1,9 @@
 # daily-bible-verse
-Simple project using a cron and a queue process to send email with a Bible verse provided by an rest API.
+
+The main purpose of this project is to send a random Bible verse to an registered e-mail.
+
+The project uses the concept taught on the course "Tarefas em Background
+Utilizando Node.js e Redis" from DIO (dio.me) with bull and bull board library for queues and nodemailer library for email process.
 
 ## Getting Started
 
