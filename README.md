@@ -34,3 +34,14 @@ To follow up the queue messages access the link below:
 ```
 http://localhost:8080/admin/queues
 ```
+
+Add a new e-mail to receive the random Bible verse.
+
+```
+curl --location 'localhost:8080/users' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "name":"User",
+    "email": "email@email.com"
+}'
+```
