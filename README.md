@@ -3,7 +3,7 @@
 The main purpose of this project is to send a random Bible verse to an registered e-mail.
 
 The project uses the concept taught on the course "Tarefas em Background
-Utilizando Node.js e Redis" from DIO (dio.me) with bull and bull board library for queues and nodemailer library for email process.
+Utilizando Node.js e Redis" from DIO (https://www.dio.me/en) with bull and bull board library for queues and nodemailer library for email process.
 
 ## Getting Started
 
